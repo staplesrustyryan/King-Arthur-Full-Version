@@ -244,4 +244,4 @@ This repository serves as the official landing page for King Arthur. The softwar
 **Get the most recent version of King Arthur today!**
 
 ---
-**Last updated:** 2026-09-13 22:58:52 UTC
+**Last updated:** 2026-09-14 00:56:43 UTC
